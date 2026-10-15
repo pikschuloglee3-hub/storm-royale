@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="storm_royale"
+version="1.0.0"
+displayName="Storm Royale"
+description='''A battle-royale mod: instant building, a glider, guns, healing items, a closing storm, supply drops and a victory screen.'''
+
+[[dependencies.storm_royale]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.storm_royale]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"

@@ -1,0 +1,17 @@
+{
+  "item.storm_royale.bullet": "Bullet",
+  "item.storm_royale.bandage": "Bandage",
+  "item.storm_royale.medkit": "Med Kit",
+  "item.storm_royale.mini_shield": "Mini Shield",
+  "item.storm_royale.shield_potion": "Shield Potion",
+  "item.storm_royale.assault_rifle": "Assault Rifle",
+  "item.storm_royale.pump_shotgun": "Pump Shotgun",
+  "item.storm_royale.sniper_rifle": "Sniper Rifle",
+  "item.storm_royale.rocket_launcher": "Rocket Launcher",
+  "key.categories.storm_royale": "Storm Royale",
+  "key.storm_royale.wall": "Build Wall",
+  "key.storm_royale.floor": "Build Floor",
+  "key.storm_royale.ramp": "Build Ramp",
+  "key.storm_royale.roof": "Build Roof",
+  "key.storm_royale.material": "Cycle Build Material"
+}

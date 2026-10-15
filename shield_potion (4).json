@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "storm_royale:mini_shield"
+    },
+    {
+      "item": "storm_royale:mini_shield"
+    },
+    {
+      "item": "minecraft:amethyst_shard"
+    }
+  ],
+  "result": {
+    "item": "storm_royale:shield_potion",
+    "count": 1
+  }
+}
